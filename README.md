@@ -1,6 +1,6 @@
 # Zedriquence - Video to Image Sequence Converter
 
-![Zedriquence Logo](ZedriquenceLogo.png)
+<img src="ZedriquenceLogo.png" alt="Zedriquence Logo" width="200">
 
 Zedriquence is a user-friendly application designed to convert video files into a sequence of images. This program is currently offered for free.
 
