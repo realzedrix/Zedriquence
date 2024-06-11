@@ -40,7 +40,7 @@ Zedriquence is a user-friendly application designed to convert video files into 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
 
